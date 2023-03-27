@@ -10,9 +10,9 @@ tagline: 记录学习,记录生活
 bannerBg: auto
 
 features: # 可选的
-  - title: 开始
-    details: 快速开始使用主题
-    link: /start/ # 可选
+  - title: 学习
+    details: 学习积累
+    link: /learn/ # 可选
     imgUrl: /assets/img/web.png # 可选
   - title: 部署
     details: 不同部署平台的CI配置方法

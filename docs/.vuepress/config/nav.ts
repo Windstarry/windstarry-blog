@@ -5,11 +5,11 @@ import { NavItem } from "vuepress/config";
 export default <Array<NavItem>>[
   { text: "Home", link: "/" },
   {
-    text: "配置",
+    text: "学习",
     items: [
       {
-        text: "项目配置",
-        link: "/start/",
+        text: "学习",
+        link: "/learn/",
       },
       {
         text: "部署",
