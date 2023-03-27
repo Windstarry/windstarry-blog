@@ -2,10 +2,12 @@
 home: true
 # heroImage: /img/web.png
 heroText: 知识是一点一滴积累起来的......
-tagline: 记录学习,记录生活,
+tagline: 记录学习,记录生活
 # actionText: 立刻进入 →
 # actionLink: /start/
-bannerBg: /img/bg.png # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
+# 背景设置 auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式
+# 提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
+bannerBg: auto
 
 features: # 可选的
   - title: 开始
