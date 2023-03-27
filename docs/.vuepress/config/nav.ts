@@ -12,8 +12,8 @@ export default <Array<NavItem>>[
         link: "/learn/",
       },
       {
-        text: "部署",
-        link: "/deploy/",
+        text: "生活",
+        link: "/life/",
       },
       {
         text: "更多参考",
@@ -22,15 +22,11 @@ export default <Array<NavItem>>[
     ],
   },
   {
-    text: "友情链接",
+    text: "生活",
     items: [
       {
-        text: "vuepress",
-        link: "https://vuepress.vuejs.org/",
-      },
-      {
-        text: "vuepress-theme-vdoing",
-        link: "https://doc.xugaoyi.com/",
+        text: "生活",
+        link: "/life/",
       },
     ],
   },
