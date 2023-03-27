@@ -32,14 +32,6 @@ export default <Array<NavItem>>[
         text: "vuepress-theme-vdoing",
         link: "https://doc.xugaoyi.com/",
       },
-      {
-        text: "U2SB",
-        link: "https://www.u2sb.com/",
-      },
-      {
-        text: "MonoLogueChi",
-        link: "https://blog.xxwhite.com/",
-      },
     ],
   },
 ];
