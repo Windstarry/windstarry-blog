@@ -8,16 +8,16 @@ export default <Array<NavItem>>[
     text: "学习",
     items: [
       {
-        text: "学习",
-        link: "/learn/",
+        text: "python",
+        link: "/pages/python.html",
       },
       {
-        text: "生活",
-        link: "/life/",
+        text: "vue3",
+        link: "/pages/vue3.html",
       },
       {
-        text: "更多参考",
-        link: "/more/",
+        text: "博客部署",
+        link: "/pages/blogtest.html",
       },
     ],
   },
@@ -25,9 +25,11 @@ export default <Array<NavItem>>[
     text: "生活",
     items: [
       {
-        text: "生活",
-        link: "/life/",
+        text: "生活随笔",
+        link: "/pages/liferecord.html",
       },
     ],
   },
+  { text: "留言板", link: "/pages/MessageBoard.html" },
+  { text: "关于我", link: "/pages/aboutme.html" },
 ];
