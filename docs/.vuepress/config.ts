@@ -8,7 +8,7 @@ import plugins from "./config/plugins";
 import head from "./config/head";
 
 export default defineConfig4CustomTheme<VdoingThemeConfig>({
-  title: "windstarry-blog", //站点标题, 建议修改
+  title: "Windstarry's blog", //站点标题, 建议修改
   description: "知识就是一点一滴的积累", //描述, 建议修改
   dest: "dist", //输出目录, 默认是 dist,无需修改
   // base: "/windstarry.github.io/", //部署站点的基础路径, 默认是 /, 不懂不要开启
