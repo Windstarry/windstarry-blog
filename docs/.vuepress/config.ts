@@ -11,7 +11,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
   title: "windstarry-blog", //站点标题, 建议修改
   description: "知识就是一点一滴的积累", //描述, 建议修改
   dest: "dist", //输出目录, 默认是 dist,无需修改
-  // base: "/vdoing-template/", //部署站点的基础路径, 默认是 /, 不懂不要开启
+  base: "/windstarry.github.io/", //部署站点的基础路径, 默认是 /, 不懂不要开启
   shouldPrefetch: () => false, //是否开启预加载, 建议不开启, 无需修改
   head: head, //全局头部信息配置, 如需修改请修改 config/head.ts
   theme: "vdoing", //主题, 无需修改
