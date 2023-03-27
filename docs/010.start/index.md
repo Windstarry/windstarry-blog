@@ -8,7 +8,7 @@ pageComponent:
 title: 开始
 date: 2022-03-09 10:50:53
 permalink: /start/
-sidebar: false
+sidebar: true
 article: false
 comment: false
 comments: false

@@ -1,11 +1,11 @@
 ---
 home: true
 # heroImage: /img/web.png
-heroText: vuepress-theme-vdoing-template
-tagline: 快速使用 vuepress-theme-vdoing
+heroText: 知识是一点一滴积累起来的......
+tagline: 记录学习,记录生活,
 # actionText: 立刻进入 →
 # actionLink: /start/
-bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
+bannerBg: auto # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
   - title: 开始
@@ -26,7 +26,6 @@ features: # 可选的
 postList: none
 # simplePostListLength: 10 # 简约版文章列表显示的文章数量，默认10。（仅在postList设置为simple时生效）
 ---
-
 本项目由 [vuepress-theme-vdoing-template](https://github.com/u2sb/vuepress-theme-vdoing-template) 创建。
 
 [vuepress-theme-vdoing-template](https://github.com/u2sb/vuepress-theme-vdoing-template) 是 [vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) 的一个模板仓库，可帮助新用户快速使用 vdoing 主题。
