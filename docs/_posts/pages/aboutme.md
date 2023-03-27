@@ -15,7 +15,7 @@ article: false
 
 ## 关于本站
 
-本站使用Vuepress搭建，主题为[Yilia](https://github.com/litten/hexo-theme-yilia)，博客使用服务有：[GitHub](https://github.com)。
+本站使用Vuepress搭建，主题为[vuepress-theme-vdoing-template](https://github.com/u2sb/vuepress-theme-vdoing-template)，博客使用服务有：[GitHub](https://github.com)。
 
 本站发布文章均可随意转载，可用于商业用途，如需转载本站文章，请注意以下几点：
 
