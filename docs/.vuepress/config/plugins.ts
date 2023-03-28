@@ -58,7 +58,7 @@ export default <UserPlugins>[
       platform: "github",
       title: "[Comment]<%- frontmatter.title %>",
       // title:"Blog-commit",
-      needComments: true,
+      needComments: false,
       // 其他的 Vssue 配置
       clientId: "913072eacc8af4f9e547",
       clientSecret: "05ff310ad1013c3a5aee1cede8e8cf8c16d22163",
